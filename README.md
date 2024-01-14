@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on shopping app
+- 🔭 I’m currently working with flutter
 - 🌱 I’m currently learning laravel and spring boot
 - 👯 I’m looking to collaborate on my friends
 - 🤔 I’m looking for help with redux
